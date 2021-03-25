@@ -10,10 +10,10 @@
 
 "use strict";
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "a", function() { return Index; });
-/* harmony import */ var _Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime/helpers/esm/classCallCheck.js");
-/* harmony import */ var _Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/createClass */ "./node_modules/@babel/runtime/helpers/esm/createClass.js");
-/* harmony import */ var _Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/inherits */ "./node_modules/@babel/runtime/helpers/esm/inherits.js");
-/* harmony import */ var _Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/createSuper */ "./node_modules/@babel/runtime/helpers/esm/createSuper.js");
+/* harmony import */ var _Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/classCallCheck */ "./node_modules/@babel/runtime/helpers/esm/classCallCheck.js");
+/* harmony import */ var _Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/createClass */ "./node_modules/@babel/runtime/helpers/esm/createClass.js");
+/* harmony import */ var _Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/inherits */ "./node_modules/@babel/runtime/helpers/esm/inherits.js");
+/* harmony import */ var _Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/createSuper */ "./node_modules/@babel/runtime/helpers/esm/createSuper.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! react */ "./node_modules/react/cjs/react.production.min.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_4___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_4__);
 /* harmony import */ var _tarojs_components__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @tarojs/components */ "./node_modules/@tarojs/plugin-platform-weapp/dist/components-react.js");
@@ -38,17 +38,17 @@
 
 
 var Index = /*#__PURE__*/function (_Component) {
-  Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(Index, _Component);
+  Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_inherits__WEBPACK_IMPORTED_MODULE_2__[/* default */ "a"])(Index, _Component);
 
-  var _super = Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(Index);
+  var _super = Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_createSuper__WEBPACK_IMPORTED_MODULE_3__[/* default */ "a"])(Index);
 
   function Index() {
-    Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(this, Index);
+    Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_classCallCheck__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(this, Index);
 
     return _super.apply(this, arguments);
   }
 
-  Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(Index, [{
+  Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_createClass__WEBPACK_IMPORTED_MODULE_1__[/* default */ "a"])(Index, [{
     key: "componentWillMount",
     value: function componentWillMount() {}
   }, {
@@ -182,7 +182,7 @@ function q(c,a,k){var b,d={},e=null,l=null;void 0!==k&&(e=""+k);void 0!==a.key&&
 /* unused harmony export AtTextarea */
 /* unused harmony export AtTimeline */
 /* unused harmony export AtToast */
-/* harmony import */ var _Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/typeof */ "./node_modules/@babel/runtime/helpers/esm/typeof.js");
+/* harmony import */ var _Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./node_modules/@babel/runtime/helpers/esm/typeof */ "./node_modules/@babel/runtime/helpers/esm/typeof.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! react */ "./node_modules/react/cjs/react.production.min.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_1__);
 /* harmony import */ var _tarojs_components__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! @tarojs/components */ "./node_modules/@tarojs/plugin-platform-weapp/dist/components-react.js");
@@ -310,7 +310,7 @@ var classnames = createCommonjsModule(function (module) {
         var arg = arguments[i];
         if (!arg) continue;
 
-        var argType = Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(arg);
+        var argType = Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(arg);
 
         if (argType === 'string' || argType === 'number') {
           classes.push(arg);
@@ -370,7 +370,7 @@ var b = "function" === typeof Symbol && Symbol.for,
     y = b ? Symbol.for("react.scope") : 60119;
 
 function z(a) {
-  if ("object" === Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(a) && null !== a) {
+  if ("object" === Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(a) && null !== a) {
     var u = a.$$typeof;
 
     switch (u) {
@@ -438,7 +438,7 @@ var isContextProvider = function isContextProvider(a) {
 };
 
 var isElement = function isElement(a) {
-  return "object" === Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(a) && null !== a && a.$$typeof === c;
+  return "object" === Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(a) && null !== a && a.$$typeof === c;
 };
 
 var isForwardRef = function isForwardRef(a) {
@@ -474,7 +474,7 @@ var isSuspense = function isSuspense(a) {
 };
 
 var isValidElementType = function isValidElementType(a) {
-  return "string" === typeof a || "function" === typeof a || a === e || a === m || a === g || a === f || a === p || a === q || "object" === Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(a) && null !== a && (a.$$typeof === t || a.$$typeof === r || a.$$typeof === h || a.$$typeof === k || a.$$typeof === n || a.$$typeof === w || a.$$typeof === x || a.$$typeof === y || a.$$typeof === v);
+  return "string" === typeof a || "function" === typeof a || a === e || a === m || a === g || a === f || a === p || a === q || "object" === Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(a) && null !== a && (a.$$typeof === t || a.$$typeof === r || a.$$typeof === h || a.$$typeof === k || a.$$typeof === n || a.$$typeof === w || a.$$typeof === x || a.$$typeof === y || a.$$typeof === v);
 };
 
 var typeOf = z;
@@ -537,11 +537,11 @@ var reactIs_development = createCommonjsModule(function (module, exports) {
 
       function isValidElementType(type) {
         return typeof type === 'string' || typeof type === 'function' || // Note: its typeof might be other than 'symbol' or 'number' if it's a polyfill.
-        type === REACT_FRAGMENT_TYPE || type === REACT_CONCURRENT_MODE_TYPE || type === REACT_PROFILER_TYPE || type === REACT_STRICT_MODE_TYPE || type === REACT_SUSPENSE_TYPE || type === REACT_SUSPENSE_LIST_TYPE || Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(type) === 'object' && type !== null && (type.$$typeof === REACT_LAZY_TYPE || type.$$typeof === REACT_MEMO_TYPE || type.$$typeof === REACT_PROVIDER_TYPE || type.$$typeof === REACT_CONTEXT_TYPE || type.$$typeof === REACT_FORWARD_REF_TYPE || type.$$typeof === REACT_FUNDAMENTAL_TYPE || type.$$typeof === REACT_RESPONDER_TYPE || type.$$typeof === REACT_SCOPE_TYPE || type.$$typeof === REACT_BLOCK_TYPE);
+        type === REACT_FRAGMENT_TYPE || type === REACT_CONCURRENT_MODE_TYPE || type === REACT_PROFILER_TYPE || type === REACT_STRICT_MODE_TYPE || type === REACT_SUSPENSE_TYPE || type === REACT_SUSPENSE_LIST_TYPE || Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(type) === 'object' && type !== null && (type.$$typeof === REACT_LAZY_TYPE || type.$$typeof === REACT_MEMO_TYPE || type.$$typeof === REACT_PROVIDER_TYPE || type.$$typeof === REACT_CONTEXT_TYPE || type.$$typeof === REACT_FORWARD_REF_TYPE || type.$$typeof === REACT_FUNDAMENTAL_TYPE || type.$$typeof === REACT_RESPONDER_TYPE || type.$$typeof === REACT_SCOPE_TYPE || type.$$typeof === REACT_BLOCK_TYPE);
       }
 
       function typeOf(object) {
-        if (Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(object) === 'object' && object !== null) {
+        if (Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(object) === 'object' && object !== null) {
           var $$typeof = object.$$typeof;
 
           switch ($$typeof) {
@@ -622,7 +622,7 @@ var reactIs_development = createCommonjsModule(function (module, exports) {
       }
 
       function isElement(object) {
-        return Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(object) === 'object' && object !== null && object.$$typeof === REACT_ELEMENT_TYPE;
+        return Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(object) === 'object' && object !== null && object.$$typeof === REACT_ELEMENT_TYPE;
       }
 
       function isForwardRef(object) {
@@ -873,7 +873,7 @@ function checkPropTypes(typeSpecs, values, location, componentName, getStack) {
           // This is intentionally an invariant that gets caught. It's the same
           // behavior as without this statement except with a better message.
           if (typeof typeSpecs[typeSpecName] !== 'function') {
-            var err = Error((componentName || 'React class') + ': ' + location + ' type `' + typeSpecName + '` is invalid; ' + 'it must be a function, usually from the `prop-types` package, but received `' + Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(typeSpecs[typeSpecName]) + '`.');
+            var err = Error((componentName || 'React class') + ': ' + location + ' type `' + typeSpecName + '` is invalid; ' + 'it must be a function, usually from the `prop-types` package, but received `' + Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(typeSpecs[typeSpecName]) + '`.');
             err.name = 'Invariant Violation';
             throw err;
           }
@@ -884,7 +884,7 @@ function checkPropTypes(typeSpecs, values, location, componentName, getStack) {
         }
 
         if (error && !(error instanceof Error)) {
-          printWarning((componentName || 'React class') + ': type specification of ' + location + ' `' + typeSpecName + '` is invalid; the type checker ' + 'function must return `null` or an `Error` but returned a ' + Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(error) + '. ' + 'You may have forgotten to pass an argument to the type checker ' + 'creator (arrayOf, instanceOf, objectOf, oneOf, oneOfType, and ' + 'shape all require an argument).');
+          printWarning((componentName || 'React class') + ': type specification of ' + location + ' `' + typeSpecName + '` is invalid; the type checker ' + 'function must return `null` or an `Error` but returned a ' + Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(error) + '. ' + 'You may have forgotten to pass an argument to the type checker ' + 'creator (arrayOf, instanceOf, objectOf, oneOf, oneOfType, and ' + 'shape all require an argument).');
         }
 
         if (error instanceof Error && !(error.message in loggedTypeFailures)) {
@@ -1386,7 +1386,7 @@ var factoryWithTypeCheckers = function factoryWithTypeCheckers(isValidElement, t
   }
 
   function isNode(propValue) {
-    switch (Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(propValue)) {
+    switch (Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(propValue)) {
       case 'number':
       case 'string':
       case 'undefined':
@@ -1465,7 +1465,7 @@ var factoryWithTypeCheckers = function factoryWithTypeCheckers(isValidElement, t
 
 
   function getPropType(propValue) {
-    var propType = Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(propValue);
+    var propType = Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(propValue);
 
     if (Array.isArray(propValue)) {
       return 'array';
@@ -1988,7 +1988,7 @@ function pxTransform(size) {
 }
 
 function objectToString(style) {
-  if (style && Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(style) === 'object') {
+  if (style && Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(style) === 'object') {
     var styleStr_1 = '';
     Object.keys(style).forEach(function (key) {
       var lowerCaseKey = key.replace(/([A-Z])/g, '-$1').toLowerCase();
@@ -2010,7 +2010,7 @@ function objectToString(style) {
 
 
 function mergeStyle(style1, style2) {
-  if (style1 && Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(style1) === 'object' && style2 && Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(style2) === 'object') {
+  if (style1 && Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(style1) === 'object' && style2 && Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(style2) === 'object') {
     return Object.assign({}, style1, style2);
   }
 
@@ -3189,11 +3189,11 @@ function eq(value, other) {
 var eq_1 = eq;
 /** Detect free variable `global` from Node.js. */
 
-var freeGlobal = Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(commonjsGlobal) == 'object' && commonjsGlobal && commonjsGlobal.Object === Object && commonjsGlobal;
+var freeGlobal = Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(commonjsGlobal) == 'object' && commonjsGlobal && commonjsGlobal.Object === Object && commonjsGlobal;
 var _freeGlobal = freeGlobal;
 /** Detect free variable `self`. */
 
-var freeSelf = (typeof self === "undefined" ? "undefined" : Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(self)) == 'object' && self && self.Object === Object && self;
+var freeSelf = (typeof self === "undefined" ? "undefined" : Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(self)) == 'object' && self && self.Object === Object && self;
 /** Used as a reference to the global object. */
 
 var root = _freeGlobal || freeSelf || Function('return this')();
@@ -3323,7 +3323,7 @@ var _baseGetTag = baseGetTag;
  */
 
 function isObject(value) {
-  var type = Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(value);
+  var type = Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(value);
 
   return value != null && (type == 'object' || type == 'function');
 }
@@ -3448,7 +3448,7 @@ var reIsUint = /^(?:0|[1-9]\d*)$/;
  */
 
 function isIndex(value, length) {
-  var type = Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(value);
+  var type = Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(value);
 
   length = length == null ? MAX_SAFE_INTEGER$1 : length;
   return !!length && (type == 'number' || type != 'symbol' && reIsUint.test(value)) && value > -1 && value % 1 == 0 && value < length;
@@ -3471,7 +3471,7 @@ function isIterateeCall(value, index, object) {
     return false;
   }
 
-  var type = Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(index);
+  var type = Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(index);
 
   if (type == 'number' ? isArrayLike_1(object) && _isIndex(index, object.length) : type == 'string' && index in object) {
     return eq_1(object[index], value);
@@ -3507,7 +3507,7 @@ var _isIterateeCall = isIterateeCall;
  */
 
 function isObjectLike(value) {
-  return value != null && Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(value) == 'object';
+  return value != null && Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(value) == 'object';
 }
 
 var isObjectLike_1 = isObjectLike;
@@ -3533,7 +3533,7 @@ var symbolTag = '[object Symbol]';
  */
 
 function isSymbol(value) {
-  return Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(value) == 'symbol' || isObjectLike_1(value) && _baseGetTag(value) == symbolTag;
+  return Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(value) == 'symbol' || isObjectLike_1(value) && _baseGetTag(value) == symbolTag;
 }
 
 var isSymbol_1 = isSymbol;
@@ -11078,7 +11078,7 @@ AtFab.defaultProps = {
 };
 
 var objectToString$2 = function objectToString$2(style) {
-  if (style && Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(style) === 'object') {
+  if (style && Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(style) === 'object') {
     var styleStr_1 = '';
     Object.keys(style).forEach(function (key) {
       var lowerCaseKey = key.replace(/([A-Z])/g, '-$1').toLowerCase();
@@ -11109,7 +11109,7 @@ function (_super) {
 
 
   AtComponent.prototype.mergeStyle = function (style1, style2) {
-    if (style1 && Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(style1) === 'object' && style2 && Object(_Volumes_WorkSpace_privite_myApp_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(style2) === 'object') {
+    if (style1 && Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(style1) === 'object' && style2 && Object(_Volumes_WorkSpace_github_my_app_node_modules_babel_runtime_helpers_esm_typeof__WEBPACK_IMPORTED_MODULE_0__[/* default */ "a"])(style2) === 'object') {
       return Object.assign({}, style1, style2);
     }
 
